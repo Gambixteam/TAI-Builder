@@ -142,10 +142,6 @@ For css changes edit `scss/editor.scss` and `scss/_builder.scss`
 
 For documentation check the [wiki](https://github.com/givanz/VvvebJs/wiki)
 
-## Support
-
-If you like the project you can support it with a [PayPal donation](https://paypal.me/zgivan) or become a backer/sponsor via [Open Collective](https://opencollective.com/vvvebjs)
-
 
 <a href="https://opencollective.com/vvvebjs/sponsors/0/website"><img src="https://opencollective.com/vvvebjs/sponsors/0/avatar"></a>
 <a href="https://opencollective.com/vvvebjs/backers/0/website"><img src="https://opencollective.com/vvvebjs/backers/0/avatar"></a>
